@@ -1,20 +1,20 @@
 [
   {
     "Timestamp": "5/7/2019 12:25:40",
-    "How would you rate the last PI?": 5,
-    "Any additional comments?": "great",
+    "Rating": 5,
+    "Comments": "great",
     "PI": "PI1"
   },
   {
     "Timestamp": "5/7/2019 12:25:47",
-    "How would you rate the last PI?": 4,
-    "Any additional comments?": "things",
+    "Rating": 4,
+    "Comments": "great",
     "PI": "PI1"
   },
   {
     "Timestamp": "5/7/2019 12:25:52",
-    "How would you rate the last PI?": 2,
-    "Any additional comments?": "stuff",
+    "Rating": 2,
+    "Comments": "great",
     "PI": "PI1"
   }
 ]
